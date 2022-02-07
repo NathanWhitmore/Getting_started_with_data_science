@@ -1,2 +1,2 @@
-# Getting_started_with_data_science
-The basic data principles for successful conservation projects
+# Data basics for conservation projects
+Basic data principles for successful conservation projects
