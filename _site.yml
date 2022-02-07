@@ -1,0 +1,19 @@
+name: "Data basics for conservation projects"  
+author: "Nathan Whitmore"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: spacelab 
+    toc: TRUE
+    toc_float: TRUE
+    anchor_sections: FALSE
+theme: cosmo
+navbar:  
+  title: "Data basics for conservation projects"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+
