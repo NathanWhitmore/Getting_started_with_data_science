@@ -5,6 +5,41 @@ title: "How to build a strategy"
 
 <style type="text/css">
 
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #149414;
+  font-family: Tahoma, sans-serif
+}
+
+h1{
+  font-size: 48px;
+  font-weight: bold;
+  color: #149414;
+  font-family: Tahoma, sans-serif
+}
+h2 { /* Header 2 */
+    color: #149414;
+}
+
+h3 { /* Header 3 */
+    color: #149414;
+}
+
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+
+
 div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
 
 </style>
