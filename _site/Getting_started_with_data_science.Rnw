@@ -1,0 +1,154 @@
+\documentclass{article}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{makeidx}
+\usepackage{multicol}
+\usepackage{sectsty}
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = green]{hyperref}
+\usepackage{appendix}
+\usepackage{rotating}            
+\usepackage{pdflscape}     
+            
+\usepackage{natbib}
+\bibliographystyle{apalike}
+
+
+% my ammendments
+\usepackage{xcolor}
+\usepackage[noae]{Sweave}
+\usepackage{bookman}
+\usepackage{titlesec}
+\usepackage{pdflscape}
+\usepackage[font=small,labelfont=bf]{caption}
+
+\usepackage{sectsty} % sets colour of chapters
+\allsectionsfont{\sffamily \mdseries\color{blue!20!black!30!green}} 
+%\sectionfont{\color{purple}}
+
+\setkeys{Gin}{width=0.9\textwidth}
+
+
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{shaded}}{\end{shaded}}
+
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+
+
+
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+
+% title page
+\begin{titlepage}
+\vspace*{\stretch{1.0}}
+
+
+
+\begin{center}
+\vspace{20mm}
+
+
+{\fontfamily{ppl}\selectfont
+
+    \textcolor{blue!20!black!30!green}{\Large\Huge{\textsf{\textbf{Getting started with data science: a guide for conservation projects}}}}
+}
+
+
+
+\end{center}
+
+\vspace{80mm}
+
+\begin{flushright}
+\noindent\textbf{\textsf{Nathan Whitmore}}\\
+
+
+
+\noindent \textsf{nathan@reproducible.co.nz}\\
+
+
+\end{flushright}
+
+\vspace{5mm}
+
+
+\vspace*{\stretch{2.0}}
+
+\end{titlepage}
+
+
+\section*{Introduction}
+
+
+\section*{Strategy}
+
+A strategy is simply the allocation of finite resources to actions in order to achieve an objective.
+
+Consequently, every individual or organisation must go through 3 key planning steps in order to construct a strategy:
+
+\begin{enumerate}
+  \item Define an objective
+  \item Formulate a set of actions
+  \item Allocate resources to those actions
+\end{enumerate}
+
+\subsection*{Logical framework}
+There should be a logical link between actions, and objective. This means,at a minimum, you need to have a theory as to why these actions should help achieve your objective. While a having a theory is good, being able to show that such actions have worked in the real world in a similar project is even better.
+
+Often funding agencies will require such links to be made clear in a project proposal. Often they will ask for a theory-of-change (often shown as a diagram), or a table (known as a logframe -- short for logical framework).
+
+\subsection*{Assumptions}
+The link between an action and an objective will always be based on a set of assumptions. Often it is help to write these down, and think about whether or not these are reasonable.
+
+Sometimes during the course of your project you will learn that some of your assumptions are so wrong that the actions you have been engaging in should be abandoned. For this reason logframes and theory-of-change should only be used as an initial guide and updated when required. They should never be used as a prescription.
+
+\subsection*{Resourcing}
+The actions which you devise must be practical. That means having the skill set, staff, equipment, time and money available to undertake them. If you are unsure whether you have sufficient resources you will need to do some form of inventory, to establish what resources you have on-hand and what resources need to be brought in. From here you are in the position to develop a financial plan for the project in the form of a table known as a budget.
+
+The existence of a budget demonstrates the seriousness of a project. The absence of a budget often indicates that an organisation does not have a serious strategy. 
+
+\vspace{3mm}
+``\emph{Sometimes a government department may claim to have a strategy to tackle a serious problem but the absence of a budget clearly suggestes otherwise.}''
+\vspace{3mm}
+
+\subsubsection*{Data: a self assessment}
+
+\begin{itemize}
+  \item What is the question we are asking?
+  \item How will we use this information to influence decision making?
+  \item Who are the decision makers?
+  \item What type of data will we need to collect to answer our question?  
+  \item How much data will we need to collect to answer our question?
+  \item How do we know the data can be analysed?
+  \item How will we analyse the data?
+  \item Who will we analyse the data?
+  \item How will we enter the data?
+  \item How can we make sure the data is free of mistakes?
+  \item How can we make sure the data is safeguarded against loss?
+  \item How can we make sure the analysis is safeguarded against loss?
+  \item How can we make sure the we understand the outcome of the analysis?
+  \item How can we make sure the decision makers understand the outcome of the analysis?
+\end{itemize}
+
+
+
+\section*{Building a data strategy}
+
+
+\end{document}
+
+
+
+
+
+
