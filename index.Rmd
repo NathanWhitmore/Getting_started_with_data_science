@@ -42,7 +42,7 @@ To restore an ecosystem (**objective**) through revegetation (**action**) using 
 
 ### Strategic planning
 <div class = "blue">
-Every individual or organisation must go through 3 key planning steps in order to construct a strategy :
+Every individual or organisation must go through 3 key planning steps in order to construct a strategy:
 
 1. Define an objective
 1. Formulate a set of actions
