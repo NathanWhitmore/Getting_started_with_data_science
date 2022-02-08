@@ -1,5 +1,5 @@
 ---
-title: "How to build a strategy"
+title: "How to build a basic strategy"
 ---
 
 
