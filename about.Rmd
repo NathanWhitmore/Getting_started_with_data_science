@@ -1,5 +1,76 @@
 ---
-title: "About this website"
+title: "About this site"
 ---
 
-Under construction
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  }
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 48px;
+  font-weight: bold;
+  color:#1f618d;
+  font-family: Tahoma, sans-serif
+}
+
+
+div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
+
+</style>
+
+<br>
+
+### Objective
+The purpose of this website is to provide brief, practical advice to people wanting to better integrate data science into their conservation projects. 
+
+<br>
+
+### Motivation
+Currently, there is no stand-alone work which adequately explains the basic data and project management concepts that most conservation projects are faced with. 
+
+While an adequate understanding can often be gained from years of practical experience or through a good understanding of scientific and management principles -- most conservation practitioners don't have the luxury of time. Hopefully, the tools and tricks contained in this website will accelerate the learning process.
+
+<br>
+
+### New material
+This website is a work in progress. Once a month I plan to add a new chapter.
+
+<br>
+
+### If you want more...
+If you want to go a step further and get into the nuts and bolts of data science with program R, a free and versatile statistical programming environment, you may like to check out my book: **R for Conservation and Development Projects: A Primer for Practitioners** which came out in 2021.
+
+<br>
+![](https://raw.githubusercontent.com/NathanWhitmore/R4condevblog/main/book%20cover.jpg)
+
+<br>
+The book is available at all major book distributors (kindle, ebook, paper back, and hardback versions) including:
+
+- [The Book Depository](https://www.bookdepository.com/R-for-Conservation-Development-Projects-Nathan-Whitmore/9780367205485?ref=grid-view&qid=1611283102040&sr=1-1)
+- [Amazon](https://www.amazon.com/Conservation-Development-Projects-Chapman-Hall/dp/0367205483)
+- [Booktopia](https://www.booktopia.com.au/r-for-conservation-and-development-projects-nathan-whitmore/book/9780367205485.html)
+
+<br>
+
+### About the book
+This book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify R and give practitioners the confidence to use it.
+
+<br>
+
+**Key Features:**
+
+* Viewing data science as part of a greater knowledge and decision making system
+* Foundation sections on inference, evidence, and data integration
+* Plain English explanations of R functions
+* Relatable examples which are typical of activities undertaken by conservation and development organisations in the developing world
+* Worked examples showing how data analysis can be incorporated into project reports
+
+<br>
+
+### About the author
+My name is Nathan Whitmore, and I’m a conservation scientist and practitioner. Over the years I have worked variously as a fisheries observer, conservation ranger, and, from 2012 to 2018, as an in-country adviser for the Wildlife Conservation Society’s Papua New Guinea programme. I am currently based in New Zealand where I work for [Reproducible](reproducible.co.nz) as a conservation analyst.
