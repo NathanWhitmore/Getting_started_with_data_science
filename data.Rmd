@@ -1,5 +1,5 @@
 ---
-title: "Data basics for conservation projects"
+title: "How to build a basic strategy"
 ---
 
 
@@ -32,26 +32,34 @@ div.blue { background-color:#f0fbfc ; border-radius: 4px; padding: 10px;}
 
 <br>
 
-## How to build a basic strategy
-
-<div class = "blue">
-In order to succeed every conservation project needs a strategy.
-</div>
-
-<br>
 
 ### What is a strategy?
 <div class = "blue">
 A strategy is simply the allocation of finite resources to actions in order to achieve an objective.
 </div>
 
+
+
 <br>
+
 
 *An example of a simple strategy would be:*
 
 <ul>
 To restore an ecosystem (**objective**) through revegetation (**action**) using volunteers (**resource**).*
 </ul>
+
+<br>
+
+### Why is it important?
+
+<div class = "blue">
+Without a strategy we risk wasting money and resources without a clear purpose. 
+</div>
+
+<br>
+
+
 
 <br>
 
