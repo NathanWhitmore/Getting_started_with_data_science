@@ -44,5 +44,5 @@ In order to help individuals and organisations achieve that goal I am assembling
 <br>
 
 ### Current chapters
-* [Data basics for conservation projects](data.html)
+* [How to build a basic strategy](data.html)
 * [Science: the basics](science.html)
