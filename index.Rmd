@@ -45,4 +45,4 @@ In order to help individuals and organisations achieve that goal I am assembling
 
 ### Current chapters
 * [How to build a basic strategy](data.html)
-* [Science: the basics](science.html)
+* [Science - the basics](science.html)
